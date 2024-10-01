@@ -9,7 +9,7 @@ Desenvolvedor iniciante focado em Python e Backend. Sempre estudando e explorand
 - 🔧 Ferramentas: VS Code, Git, GitHub
 
 ### Meus Projetos:
-- [[Projeto 1](link-para-o-repo)](https://github.com/FillipeBerssot/Curso-Python-Projetos): Estudos, exercicios e mini projetos sobre Python, Algoritmos e Logica de Programação.
+- (link-para-o-repo)](https://github.com/FillipeBerssot/Curso-Python-Projetos): Estudos, exercicios e mini projetos sobre Python, Algoritmos e Logica de Programação.
 
 ### Objetivos:
 - 📚 Aprender mais sobre conceitos avançados de programação, incluindo estruturas de dados e algoritmos eficientes.
