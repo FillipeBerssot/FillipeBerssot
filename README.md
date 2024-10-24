@@ -11,6 +11,7 @@ Desenvolvedor iniciante focado em Python e Backend. Sempre estudando e explorand
 ### Meus Projetos:
 - https://github.com/FillipeBerssot/Curso-Python-Projetos : Estudos, exercicios e mini projetos sobre Python, Algoritmos e Logica de Programação.
 - https://github.com/FillipeBerssot/sistema-medico-bater-ponto : Este é um projeto de estudo em Python que simula um sistema de controle de ponto médico.
+- https://github.com/FillipeBerssot/mini-sistema-api : Consiste em um mini sistema API desenvolvido em Python, utilizando o requests para realizar operações CRUD em uma API externa (JSONPlaceholder).
 - https://github.com/FillipeBerssot/Jogo-Pac-Man : Este é um jogo e também estudo inspirado no clássico Pac-Man, desenvolvido em Python utilizando a biblioteca Pygame.
 
 ### Objetivos:
