@@ -6,9 +6,10 @@ Desenvolvedor iniciante focado em Python e Backend. Sempre estudando e explorand
 
 ### Tecnologias e Ferramentas:
 - 💻 Linguagens: Python
-- 🔧 Ferramentas: VS Code, Git, GitHub
+- 🔧 Ferramentas: FastAPI, VS Code, Git, GitHub
 
 ### Meus Projetos:
+- https://github.com/FillipeBerssot/conversor_moedas_fast_api: Este projeto é um Conversor de Moedas desenvolvido com FastAPI.
 - https://github.com/FillipeBerssot/Curso-Python-Projetos : Estudos, exercicios e mini projetos sobre Python, Algoritmos e Logica de Programação.
 - https://github.com/FillipeBerssot/sistema-medico-bater-ponto : Este é um projeto de estudo em Python que simula um mini sistema de controle de ponto médico.
 - https://github.com/FillipeBerssot/mini-sistema-api : Consiste em um mini sistema API desenvolvido em Python, utilizando o requests para realizar operações CRUD em uma API externa (JSONPlaceholder).
