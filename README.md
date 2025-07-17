@@ -1,26 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/FillipeBerssot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FillipeBerssot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillipeBerssot&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-# Olá! 👋 Eu sou Fillipe Berssot.
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Fillipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fillipe-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Fillipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fillipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fillipe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Fillipe-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
 
-Desenvolvedor iniciante focado em Python e Backend. Sempre estudando e explorando novas formas de criar soluções eficientes com códigos.
+##
 
-### Tecnologias e Ferramentas:
-- 💻 Linguagens: Python
-- 🔧 Ferramentas: FastAPI, VS Code, Git, GitHub
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/fillipe-berssot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-### Meus Projetos:
-- https://github.com/FillipeBerssot/conversor_moedas_fast_api: Este projeto é um Conversor de Moedas desenvolvido com FastAPI.
-- https://github.com/FillipeBerssot/Curso-Python-Projetos : Estudos, exercicios e mini projetos sobre Python, Algoritmos e Logica de Programação.
-- https://github.com/FillipeBerssot/sistema-medico-bater-ponto : Este é um projeto de estudo em Python que simula um mini sistema de controle de ponto médico.
-- https://github.com/FillipeBerssot/mini-sistema-api : Consiste em um mini sistema API desenvolvido em Python, utilizando o requests para realizar operações CRUD em uma API externa (JSONPlaceholder).
-- https://github.com/FillipeBerssot/Jogo-Pac-Man : Este é um jogo e também estudo inspirado no clássico Pac-Man, desenvolvido em Python utilizando a biblioteca Pygame.
+---
 
-### Objetivos:
-- 📚 Aprender mais sobre conceitos avançados de programação, incluindo estruturas de dados e algoritmos eficientes.
-- 🐍 Aprofundar meus conhecimentos em Python, explorando bibliotecas e frameworks relevantes.
-- 🗄️ Dominar bancos de dados, desde a modelagem até consultas complexas usando SQL e NoSQL.
-- 🌐 Criar e consumir APIs robustas, otimizando a comunicação entre sistemas.
-- 🛠️ Continuar desenvolvendo habilidades em arquitetura de sistemas e boas práticas de desenvolvimento backend.
+### Olá, sou o Fillipe Berssot 👋
 
-### Entre em contato:
-- [LinkedIn](https://www.linkedin.com/in/filipe-berssot/)
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação, com foco em **Python** e no ecossistema **Backend**. Sou apaixonado por resolver problemas e transformar ideias em código funcional e eficiente. Atualmente, busco uma **oportunidade de estágio** para aplicar minhas habilidades, colaborar com equipes experientes e contribuir para projetos desafiadores.
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **[Gestão de Estoque](https://github.com/FillipeBerssot/projeto_gestao_estoque)** | Aplicação web desenvolvida para auxiliar pequenos empreendedores no controle de estoque e na gestão de custos de materiais, oferecendo uma interface simples para o gerenciamento de produtos. | `Python`, `Flask`, `HTML`, `CSS`, `SQL` |
+| **[Conversor de Moedas](https://github.com/FillipeBerssot/conversor_moedas_fast_api)** | API com FastAPI que converte valores entre moedas (BRL, USD, EUR), consumindo dados de uma API externa em tempo real para obter as cotações. | `FastAPI`, `Python`, `Requests` |
+| **[Jogo Pac-Man](https://github.com/FillipeBerssot/Jogo-Pac-Man)** | Recriação do clássico jogo Pac-Man utilizando a biblioteca Pygame. O projeto explora lógica de programação, manipulação de estados e renderização gráfica. | `Pygame`, `Python` |
+| **[API de Controle de Ponto](https://github.com/FillipeBerssot/sistema-medico-bater-ponto)** | Simulação de um sistema de controle de ponto médico, onde é possível registrar entradas e saídas de profissionais, gerando um registro de horas trabalhadas. | `Python` |
+
+---
+
+### 🌱 Meus Objetivos de Aprendizagem
+
+- 📚 Aprofundar em **Estruturas de Dados e Algoritmos** para otimizar a performance de minhas aplicações.
+- 🗄️ Dominar bancos de dados **SQL** e **NoSQL**, com foco em modelagem eficiente e consultas complexas.
+- ☁️ Explorar tecnologias de **Cloud (AWS/GCP)** e **conteinerização com Docker**.
+- 🛠️ Adquirir experiência em **arquitetura de software** e **padrões de projeto (Design Patterns)**.
