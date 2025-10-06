@@ -18,7 +18,7 @@
 
 ### Olá, sou o Fillipe Berssot 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação, com foco em **Python** e no ecossistema **Backend**. Sou apaixonado por resolver problemas e transformar ideias em código funcional e eficiente. Atualmente, busco uma **oportunidade de estágio** para aplicar minhas habilidades, colaborar com equipes experientes e contribuir para projetos desafiadores.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software em formação. Interesso-me por Back‑end, APIs, Ciência/Análise de Dados e IA/ML. Estou em busca de estágio (ou júnior) para contribuir com impacto real, aprender com equipes experientes e evoluir continuamente.
 
 ---
 
@@ -28,12 +28,24 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **[Gestão de Estoque](https://github.com/FillipeBerssot/projeto_gestao_estoque)** | Aplicação web desenvolvida para auxiliar pequenos empreendedores no controle de estoque e na gestão de custos de materiais, oferecendo uma interface simples para o gerenciamento de produtos. | `Python`, `Flask`, `HTML`, `CSS`, `SQL` |
+| **[Análise de Dados da ANP – Preços de Combustíveis](https://github.com/FillipeBerssot/projeto_gasprices_final)** | EDA completa dos dados públicos da ANP: limpeza e padronização, análise por UF/Município e por combustível (gasolina, etanol, diesel), identificação de outliers e sazonalidade, séries temporais e insights acionáveis com gráficos. | `Python`, `pandas`, `NumPy`, `Matplotlib`, `Plotly` |
+| **[Gestão de Estoque em Andamento](https://github.com/FillipeBerssot/projeto_gestao_estoque)** | Aplicação web desenvolvida para auxiliar pequenos empreendedores no controle de estoque e na gestão de custos de materiais, oferecendo uma interface simples para o gerenciamento de produtos. | `Python`, `Flask`, `HTML`, `CSS`, `SQL` |
 | **[Conversor de Moedas](https://github.com/FillipeBerssot/conversor_moedas_fast_api)** | API com FastAPI que converte valores entre moedas (BRL, USD, EUR), consumindo dados de uma API externa em tempo real para obter as cotações. | `FastAPI`, `Python`, `Requests` |
 | **[Jogo Pac-Man](https://github.com/FillipeBerssot/Jogo-Pac-Man)** | Recriação do clássico jogo Pac-Man utilizando a biblioteca Pygame. O projeto explora lógica de programação, manipulação de estados e renderização gráfica. | `Pygame`, `Python` |
 | **[API de Controle de Ponto](https://github.com/FillipeBerssot/sistema-medico-bater-ponto)** | Simulação de um sistema de controle de ponto médico, onde é possível registrar entradas e saídas de profissionais, gerando um registro de horas trabalhadas. | `Python` |
 
 ---
+### 🧰 Competências Técnicas
+
+Linguagens: Python, JavaScript (básico)
+Back‑end: FastAPI, Flask, REST, autenticação, validação, testes (Pytest)
+Dados/ML: pandas, NumPy, scikit‑learn, EDA, métricas (RMSE, ROC‑AUC, F1), validação, feature engineering
+Bancos: PostgreSQL, SQLite, modelagem relacional, consultas SQL, noções de NoSQL
+Infra & DevOps: Docker, Git/GitHub, Linux, GitHub Actions (lint/test/CI)
+Web: HTML5, CSS3, consumo de APIs, JSON
+Práticas: versionamento semântico, Conventional Commits, documentação em README, issues e project boards
+
+Em estudo contínuo: estatística aplicada, PyTorch (fundamentos), orquestração leve de pipelines, deploy de modelos com FastAPI + Docker.
 
 ### 🌱 Meus Objetivos de Aprendizagem
 
