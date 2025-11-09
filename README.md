@@ -29,7 +29,7 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **[Projeto de Estudo RAG – Projeto de Estudo Pessoal]https://github.com/FillipeBerssot/projeto_rag_IA_professor)** |RAG com FAISS + SentenceTransformers e geração via OpenAI (gpt-4o-mini) ou local (Qwen 0.5B). UI em Streamlit, referências por chunk, limites seguros de contexto e top_k. | `Python`, `Streamlit`, `FAISS`, `sentence-transformers`, `Transformers`, `OpenAI` |
+| **[Projeto de Estudo RAG – Projeto de Estudo Pessoal](https://github.com/FillipeBerssot/projeto_rag_IA_professor)** |RAG com FAISS + SentenceTransformers e geração via OpenAI (gpt-4o-mini) ou local (Qwen 0.5B). UI em Streamlit, referências por chunk, limites seguros de contexto e top_k. | `Python`, `Streamlit`, `FAISS`, `sentence-transformers`, `Transformers`, `OpenAI` |
 | **[Análise de Dados da ANP – Preços de Combustíveis](https://github.com/FillipeBerssot/projeto_gasprices_final)** | EDA completa dos dados públicos da ANP: limpeza e padronização, análise por UF/Município e por combustível (gasolina, etanol, diesel), identificação de outliers e sazonalidade, séries temporais e insights acionáveis com gráficos. | `Python`, `pandas`, `NumPy`, `Matplotlib`, `Plotly` |
 | **[Gestão de Estoque em Andamento](https://github.com/FillipeBerssot/projeto_gestao_estoque)** | Aplicação web desenvolvida para auxiliar pequenos empreendedores no controle de estoque e na gestão de custos de materiais, oferecendo uma interface simples para o gerenciamento de produtos. | `Python`, `Flask`, `HTML`, `CSS`, `SQL` |
 | **[Conversor de Moedas](https://github.com/FillipeBerssot/conversor_moedas_fast_api)** | API com FastAPI que converte valores entre moedas (BRL, USD, EUR), consumindo dados de uma API externa em tempo real para obter as cotações. | `FastAPI`, `Python`, `Requests` |
@@ -58,4 +58,3 @@ Em estudo contínuo: estatística aplicada, PyTorch (fundamentos), orquestraçã
 
 ## 📫 Contato
 - **LinkedIn:** [fillipe-berssot](https://www.linkedin.com/in/fillipe-berssot/)
-- **GitHub:** [@FillipeBerssot](https://github.com/FillipeBerssot)
