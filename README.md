@@ -12,7 +12,7 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/fillipe-berssot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://huggingface.co/FillipeBerssot" target="_blank"><img src="https://img.shields.io/badge/Demo-Hugging%20Face%20Spaces-F8D64E?logo=huggingface&logoColor=black" target="_blank"></a> 
+  <a href="https://huggingface.co/FillipeBerssot" target="_blank"><img src="https://img.shields.io/badge/-Hugging%20Face%20Spaces-F8D64E?logo=huggingface&logoColor=black" target="_blank"></a> 
 </div>
 
 ---
