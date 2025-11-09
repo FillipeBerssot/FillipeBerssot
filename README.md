@@ -12,6 +12,7 @@
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/fillipe-berssot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://huggingface.co/FillipeBerssot" target="_blank"><img src="https://img.shields.io/badge/Demo-Hugging%20Face%20Spaces-F8D64E?logo=huggingface&logoColor=black" target="_blank"></a> 
 </div>
 
 ---
@@ -28,6 +29,7 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| **[Projeto de Estudo RAG – Projeto de Estudo Pessoal]https://github.com/FillipeBerssot/projeto_rag_IA_professor)** |RAG com FAISS + SentenceTransformers e geração via OpenAI (gpt-4o-mini) ou local (Qwen 0.5B). UI em Streamlit, referências por chunk, limites seguros de contexto e top_k. | `Python`, `Streamlit`, `FAISS`, `sentence-transformers`, `Transformers`, `OpenAI` |
 | **[Análise de Dados da ANP – Preços de Combustíveis](https://github.com/FillipeBerssot/projeto_gasprices_final)** | EDA completa dos dados públicos da ANP: limpeza e padronização, análise por UF/Município e por combustível (gasolina, etanol, diesel), identificação de outliers e sazonalidade, séries temporais e insights acionáveis com gráficos. | `Python`, `pandas`, `NumPy`, `Matplotlib`, `Plotly` |
 | **[Gestão de Estoque em Andamento](https://github.com/FillipeBerssot/projeto_gestao_estoque)** | Aplicação web desenvolvida para auxiliar pequenos empreendedores no controle de estoque e na gestão de custos de materiais, oferecendo uma interface simples para o gerenciamento de produtos. | `Python`, `Flask`, `HTML`, `CSS`, `SQL` |
 | **[Conversor de Moedas](https://github.com/FillipeBerssot/conversor_moedas_fast_api)** | API com FastAPI que converte valores entre moedas (BRL, USD, EUR), consumindo dados de uma API externa em tempo real para obter as cotações. | `FastAPI`, `Python`, `Requests` |
@@ -39,7 +41,7 @@ Aqui estão alguns projetos que desenvolvi para aplicar meus conhecimentos:
 
 Linguagens: Python, JavaScript (básico)
 Back‑end: FastAPI, Flask, REST, autenticação, validação, testes (Pytest)
-Dados/ML: pandas, NumPy, scikit‑learn, EDA, métricas (RMSE, ROC‑AUC, F1), validação, feature engineering
+Dados/ML: pandas, NumPy, scikit‑learn, EDA, métricas, RAG (FAISS + embeddings)
 Bancos: PostgreSQL, SQLite, modelagem relacional, consultas SQL, noções de NoSQL
 Infra & DevOps: Docker, Git/GitHub, Linux, GitHub Actions (lint/test/CI)
 Web: HTML5, CSS3, consumo de APIs, JSON
@@ -53,3 +55,7 @@ Em estudo contínuo: estatística aplicada, PyTorch (fundamentos), orquestraçã
 - 🗄️ Dominar bancos de dados **SQL** e **NoSQL**, com foco em modelagem eficiente e consultas complexas.
 - ☁️ Explorar tecnologias de **Cloud (AWS/GCP)** e **conteinerização com Docker**.
 - 🛠️ Adquirir experiência em **arquitetura de software** e **padrões de projeto (Design Patterns)**.
+
+## 📫 Contato
+- **LinkedIn:** [fillipe-berssot](https://www.linkedin.com/in/fillipe-berssot/)
+- **GitHub:** [@FillipeBerssot](https://github.com/FillipeBerssot)
